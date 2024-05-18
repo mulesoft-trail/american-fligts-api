@@ -4,7 +4,12 @@ title: American Fligts API
 /flights:
   get:
     queryParameters:
-      des
+      destinations:
+        required: false
+        enum:
+          - SFO
+          - LAX
+          - CLE
 
   post:
 
