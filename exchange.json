@@ -1,0 +1,10 @@
+{
+  "main": "american-fligts-api.raml",
+  "name": "American Fligts API",
+  "groupId": "e97c7b86-9ae4-44e5-aab1-b20bf1fe319c",
+  "assetId": "american-fligts-api",
+  "version": "1.0.0",
+  "classifier": "raml",
+  "tags": [],
+  "descriptorVersion": "1.0.0"
+}
