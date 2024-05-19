@@ -19,5 +19,9 @@
   "main": "american-fligts-api.raml",
   "assetId": "american-fligts-api",
   "groupId": "e97c7b86-9ae4-44e5-aab1-b20bf1fe319c",
-  "name": "American Fligts API"
+  "name": "American Fligts API",
+  "organizationId": "e97c7b86-9ae4-44e5-aab1-b20bf1fe319c",
+  "apiVersion": "v1",
+  "tags": [],
+  "originalFormatVersion": "1.0"
 }
