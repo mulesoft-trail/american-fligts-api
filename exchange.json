@@ -1,24 +1,27 @@
 {
-  "main" : "american-fligts-api.raml",
-  "name" : "American Fligts API",
-  "classifier" : "raml",
-  "tags" : [ ],
-  "groupId" : "e97c7b86-9ae4-44e5-aab1-b20bf1fe319c",
-  "assetId" : "american-fligts-api",
-  "version" : "1.0.2",
-  "apiVersion" : "v1",
-  "dependencies" : [ {
-    "groupId" : "68ef9520-24e9-4cf2-b2f5-620025690913",
-    "assetId" : "training-american-flight-data-type",
-    "version" : "1.0.1",
-    "provided" : false
-  }, {
-    "groupId" : "68ef9520-24e9-4cf2-b2f5-620025690913",
-    "assetId" : "training-american-flights-example",
-    "version" : "1.0.1",
-    "provided" : false
-  } ],
-  "organizationId" : "e97c7b86-9ae4-44e5-aab1-b20bf1fe319c",
-  "originalFormatVersion" : "1.0",
-  "descriptorVersion" : "1.0.0"
+  "main": "american-fligts-api.raml",
+  "name": "American Fligts API",
+  "classifier": "raml",
+  "tags": [],
+  "groupId": "e97c7b86-9ae4-44e5-aab1-b20bf1fe319c",
+  "assetId": "american-fligts-api",
+  "version": "1.0.2",
+  "apiVersion": "v1",
+  "dependencies": [
+    {
+      "groupId": "68ef9520-24e9-4cf2-b2f5-620025690913",
+      "assetId": "training-american-flight-data-type",
+      "version": "1.0.1",
+      "provided": false
+    },
+    {
+      "groupId": "68ef9520-24e9-4cf2-b2f5-620025690913",
+      "assetId": "training-american-flights-example",
+      "version": "1.0.1",
+      "provided": false
+    }
+  ],
+  "organizationId": "e97c7b86-9ae4-44e5-aab1-b20bf1fe319c",
+  "originalFormatVersion": "1.0",
+  "descriptorVersion": "1.0.0"
 }
